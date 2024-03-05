@@ -341,6 +341,8 @@ Functions can be treated as values and passed around like any other variable.
 
 - Install Nodejs (`nvm install --lts`)
 
+  - What's Node? Well, in the simplest sense, node allows you to run JavaScript on your computer without using a browser. It does other things too, but if you've not come across node before now, then just think of it as something that lets you run JavaScript outside of a browser.
+
 - Create a node project (`npm init`)
 
 - Install TypeScript (`npm install typescript --save-dev`)
