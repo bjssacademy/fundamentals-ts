@@ -192,6 +192,8 @@ console.log("Hello, " + name)
   * Types in TypeScript can be both implicit and explicit.
   * If you do not explicitly write your types, the compiler will use *type inference* to infer the types you are using.
 
+  > Scratching your head wondering what a type is? Check out our [fundamentals guide on types](https://github.com/bjssacademy/fundamentals-general/blob/main/types.md).
+
 ```ts
 // Implicit
 
