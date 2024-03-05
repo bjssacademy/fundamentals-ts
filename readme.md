@@ -127,7 +127,7 @@ Java, an example of a statically-typed language, won't allow you to do this.
 
 ## Why is this a problem?
 
-![](<img/TypeScript Primer9.jpg)
+![](<img/TypeScript Primer9.jpg>)
 
 **<u> Using ‘other’ code can lead to bugs </u>**
 
